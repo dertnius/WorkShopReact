@@ -1,2 +1,0 @@
-# WorkShopReact
-React-VS
